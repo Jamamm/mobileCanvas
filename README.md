@@ -1,6 +1,6 @@
 # 移动端Canvas画板
 
-该项目是一个移动端的Canvas画板。[预览链接](http://dengjian.space/mobileCanvas/index.html "预览链接")
+该项目是一个移动端的Canvas画板。[预览链接](https://jamccc.github.io/mobileCanvas/ "预览链接")
 
 ## 功能介绍
 支持 PC 端和移动端，包含 画笔 、橡皮擦 、选择颜色 、画笔粗细 、清空 和 下载 功能
