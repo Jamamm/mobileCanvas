@@ -12,4 +12,3 @@
 ## 技术栈
 HTML5 & CSS3 ，使用了 canvas API + 原生 JS 进行开发 
 
-![演示](http://p533w93qa.bkt.clouddn.com/canvas.jpg)
